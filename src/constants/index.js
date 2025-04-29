@@ -4,7 +4,7 @@ import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import jarvis from "../assets/projects/J.A.R.V.I.S..jpg";
 import dbms from "../assets/Certification/Scaler dbms.png";
-import aws from "../assets/Certification/aws.png";
+import aws from "../assets/Certification/AWS.png";
 export const HERO_CONTENT = `I am an enthusiastic aspiring full stack developer with a strong eagerness to learn and adapt to new technologies. Although I am early in my career, I have already gained a solid understanding of both front-end and back-end development through my studies and personal projects. I am particularly interested in technologies such as React and Node.js, and I am committed to expanding my knowledge in areas like Next.js, MySQL, PostgreSQL, and MongoDB. My goal is to harness my passion for technology and my quick learning ability to contribute to innovative projects and grow as a developer in a dynamic and challenging environment.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
